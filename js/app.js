@@ -1,0 +1,1 @@
+const onlyForMain = 1;
